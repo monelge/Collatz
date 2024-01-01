@@ -13,14 +13,14 @@ Collatz problemi, pozitif bir tam sayı ile başlayan bir diziyi oluşturmak iç
 
 1. Proje klonlayın:
 
-```bash
+
 git clone https://github.com/kullanici_adi/CollatzProblem.git
 cd CollatzProblem
-```bash
+
 C# dosyalarını derleyin ve çalıştırın:
-```bash
+
 dotnet run
-```bash
+
 Program, kullanıcıdan bir başlangıç sayısı alacak ve Collatz dizisini oluşturup ekrana yazdıracaktır.
 Katkıda Bulunma
 Eğer bu projeye katkıda bulunmak istiyorsanız, lütfen aşağıdaki adımları takip edin:
