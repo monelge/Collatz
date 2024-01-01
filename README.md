@@ -16,10 +16,11 @@ Collatz problemi, pozitif bir tam sayı ile başlayan bir diziyi oluşturmak iç
 ```bash
 git clone https://github.com/kullanici_adi/CollatzProblem.git
 cd CollatzProblem
-
+```bash
 C# dosyalarını derleyin ve çalıştırın:
+```bash
 dotnet run
-
+```bash
 Program, kullanıcıdan bir başlangıç sayısı alacak ve Collatz dizisini oluşturup ekrana yazdıracaktır.
 Katkıda Bulunma
 Eğer bu projeye katkıda bulunmak istiyorsanız, lütfen aşağıdaki adımları takip edin:
@@ -31,6 +32,6 @@ Branch'inizi push edin (git push origin feature/yenibirözellik)
 Pull request oluşturun
 Lisans
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için LICENSE dosyasına bakınız.
-
-
+```bash
 Bu örnek, temel bilgileri içerir ve projeyi kullanmaya başlamak isteyenler için adım adım talimatlar sağlar. Projeye ek özellikler ekledikçe veya geliştirdikçe README dosyasını güncellemeyi unutmayın.
+```bash
